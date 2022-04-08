@@ -1,0 +1,140 @@
+{
+  "Students": [
+    {
+      "id": 5,
+      "name": "Ani9",
+      "class": "10B",
+      "score": "87%"
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "username": "example",
+      "id": 9
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 10
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 11
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 12
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 13
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 14
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 15
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 16
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 17
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 18
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 19
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 20
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 21
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 22
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 23
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 24
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 25
+    },
+    {
+      "name": "Aditya",
+      "class": "10C",
+      "score": "94%",
+      "id": 26
+    },
+    {
+      "name": "nitin",
+      "class": "cse",
+      "score": "99",
+      "id": 27
+    },
+    {
+      "name": "",
+      "class": "",
+      "score": "",
+      "id": 28
+    }
+  ]
+}
